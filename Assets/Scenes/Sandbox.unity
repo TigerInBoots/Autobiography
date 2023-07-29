@@ -656,9 +656,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4891247281837058846, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
+      propertyPath: m_TagString
+      value: Finish
+      objectReference: {fileID: 0}
     - target: {fileID: 8672038024238565940, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
       propertyPath: m_Name
       value: Shelf (End)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8672038024238565940, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
@@ -678,7 +686,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 24300002, guid: ec4d73e274d77474080a06e231d36cb3, type: 2}
-  m_audioClip: {fileID: 8300000, guid: 80b21a293c3ae9247a1f85cd853301fc, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5cfdae3ba1551014eb4660d9f3a4c53e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -764,6 +772,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1877904367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1877904363}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bb416501421a344ca6042b2f0425ce3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &6145757933268578850
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -816,9 +836,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4891247281837058846, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
+      propertyPath: m_TagString
+      value: Friendly
+      objectReference: {fileID: 0}
     - target: {fileID: 8672038024238565940, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
       propertyPath: m_Name
       value: Shelf (Start)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8672038024238565940, guid: 8aa3f7ce5fea2f948924b54f94d10146, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []

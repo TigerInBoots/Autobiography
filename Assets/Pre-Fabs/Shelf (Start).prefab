@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2123095689521075986}
   m_Layer: 0
   m_Name: Shelf wall (3)
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,7 +111,7 @@ GameObject:
   - component: {fileID: 860035047409608039}
   m_Layer: 0
   m_Name: Shelf wall
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 6160626090148239059}
   m_Layer: 0
   m_Name: Shelf wall (1)
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -305,7 +305,7 @@ GameObject:
   - component: {fileID: 4939826688662058924}
   m_Layer: 0
   m_Name: Shelf floor
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -402,7 +402,7 @@ GameObject:
   - component: {fileID: 8860465327756662489}
   m_Layer: 0
   m_Name: Shelf wall (2)
-  m_TagString: Untagged
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -495,8 +495,8 @@ GameObject:
   m_Component:
   - component: {fileID: 815247801858332095}
   m_Layer: 0
-  m_Name: Shelf
-  m_TagString: Untagged
+  m_Name: Shelf (Start)
+  m_TagString: Friendly
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

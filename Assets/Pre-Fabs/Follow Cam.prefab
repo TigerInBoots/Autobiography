@@ -86,7 +86,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 1
-  m_FollowOffset: {x: 0, y: 0, z: 53}
+  m_FollowOffset: {x: 0, y: 5, z: 50}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -126,7 +126,7 @@ Transform:
   m_Children:
   - {fileID: 8479841914652857234}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8479841916467820747
 MonoBehaviour:

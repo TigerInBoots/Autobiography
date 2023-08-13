@@ -265,7 +265,7 @@ GameObject:
   - component: {fileID: 4863274431849079618}
   m_Layer: 0
   m_Name: Book
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -291,7 +291,7 @@ Transform:
   - {fileID: 8403975551320634795}
   - {fileID: 5375374714771541421}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!54 &539692668
 Rigidbody:

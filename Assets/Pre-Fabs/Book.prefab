@@ -263,6 +263,7 @@ GameObject:
   - component: {fileID: 1877904364}
   - component: {fileID: 1877904367}
   - component: {fileID: 4863274431849079618}
+  - component: {fileID: 6439071868896969123}
   m_Layer: 0
   m_Name: Book
   m_TagString: Player
@@ -291,7 +292,7 @@ Transform:
   - {fileID: 8403975551320634795}
   - {fileID: 5375374714771541421}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
 --- !u!54 &539692668
 Rigidbody:
@@ -451,6 +452,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 5.9932966, y: 3.9957514, z: 1.8046862}
   m_Center: {x: -0.007910252, y: 0.0046935678, z: -0.53522056}
+--- !u!114 &6439071868896969123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5330410017954801426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929a3343fb9cb6240965bf59257a4432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6374557632695489980
 GameObject:
   m_ObjectHideFlags: 0

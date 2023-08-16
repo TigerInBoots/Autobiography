@@ -7,11 +7,20 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Fly Over.unity
-    guid: 66c1bfa7f617aeb409344bd21fb8eeca
+    guid: 418cbab946423814e95426dd54e0738e
   - enabled: 1
     path: Assets/Scenes/Fly Between.unity
     guid: 39ae1c0762fe9624086826a67a5d1f89
   - enabled: 1
     path: Assets/Scenes/Falling Book.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Burning Book.unity
+    guid: fdbe0639f7803cd41817935e5ed93f40
+  - enabled: 1
+    path: Assets/Scenes/Books Flying.unity
+    guid: a3c486e5501b1a24989dd08c9b0f5c15
+  - enabled: 1
+    path: Assets/Scenes/Escape.unity
+    guid: 66c1bfa7f617aeb409344bd21fb8eeca
   m_configObjects: {}
